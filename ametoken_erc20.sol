@@ -85,3 +85,4 @@ balances[to] = safeAdd(balances[to], tokens);
 emit Transfer(from, to, tokens);
 return true;
 }
+}
